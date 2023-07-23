@@ -18,7 +18,7 @@
 ;; ----------------------------------------------------------------
 
 -- navbar.header:
-logo: $assets.files.images.logo.svg
+logo: $assets.files.images.kjcute.jpg
 logoURL: /portfolio
 header-item1: Home
 header-item2: About
